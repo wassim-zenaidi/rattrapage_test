@@ -1,3 +1,5 @@
+//calculatrice avec suppression d'espace
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
